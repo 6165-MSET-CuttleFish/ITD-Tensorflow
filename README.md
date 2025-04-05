@@ -6,3 +6,5 @@
 - Detects both Top Down & Angled View
 
 Limelight Neural Detector Docs: https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks#neural-detector-pipeline
+
+Our training images: https://drive.google.com/drive/folders/1nhmk5RbnNts5AFF-kFU5lMXsX72iCwAV
