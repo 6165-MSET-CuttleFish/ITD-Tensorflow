@@ -8,4 +8,5 @@
 Limelight Neural Detector Docs: https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks#neural-detector-pipeline
 
 Our training images: https://drive.google.com/drive/folders/1nhmk5RbnNts5AFF-kFU5lMXsX72iCwAV
+
 Our labels: https://drive.google.com/drive/folders/1mo3oRMAyMm0g2AAJCVV2LOUxvfIuKpJA
